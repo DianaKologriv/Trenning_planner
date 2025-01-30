@@ -1,4 +1,3 @@
-Aplikacja- planer treningów, umożliwia zalogowanemu użytkownikowi dodawanie swoich odbytych treningów z wyszczególnieniem wykonanych ćwiczeń, liczby serii czy liczby powtórzeń.
 Główne funkcje aplikacji:
 Rejestracja i logowanie – użytkownicy mogą tworzyć konta i logować się, aby zarządzać swoimi treningami.
 Dodawanie treningów – każdy trening zawiera:
